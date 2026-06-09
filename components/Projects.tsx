@@ -7,7 +7,7 @@ import Image from "next/image";
 const projects = [
   {
     title: "Kickerz Cup 2026",
-    url: "https://kickerz-cup.com",
+    url: "https://kickerzcup.colombokickerz.lk",
     year: "2026",
     tech: ["React", "Tailwind", "Firebase"],
     color: "#E63946",
