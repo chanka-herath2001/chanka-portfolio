@@ -241,9 +241,9 @@ export default function Projects() {
           <p className="mt-6 text-[#1D3557] font-semibold max-w-xl mx-auto">
             Projects I&apos;ve built, shipped, and battled through.
           </p>
-          <div className="mt-4 speech-bubble inline-block px-4 py-2 text-sm text-[#0D0D0D] font-semibold" style={{ fontFamily: "'Comic Neue', cursive" }}>
+          {/* <div className="mt-4 speech-bubble inline-block px-4 py-2 text-sm text-[#0D0D0D] font-semibold" style={{ fontFamily: "'Comic Neue', cursive" }}>
             💡 Add your screenshots to <code className="font-mono bg-gray-100 px-1">public/projects/</code> to make them visible!
-          </div>
+          </div> */}
         </motion.div>
 
         {/* Project grid */}
