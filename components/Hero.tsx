@@ -141,7 +141,7 @@ export default function Hero() {
               {/* Halftone overlay */}
               <div className="absolute inset-0 bg-[#FFD700] opacity-10 z-10 pointer-events-none" />
               <Image
-                src="/images/graduation.jpeg"
+                src="/images/comic.png"
                 alt="Chanka Herath presenting"
                 fill
                 className="object-cover"
